@@ -19,7 +19,7 @@ Waveguide.
 Menara.
 
 
-Fungsi Perangkat
+##Fungsi Perangkat##
 Komponen Microwave Link
 Di dalam Microwave Link terdapat beberapa komponen, berikut ini adalah komponen utama dari Microwave Link :
 
@@ -37,14 +37,14 @@ Digunakan untuk menompang Microwave Antena, perhitungan dalam jumlah antena dan 
 
 
 
-sistem kerja
+##sistem kerja##
 microwave link bekerja dengan menggunakan pancaran gelombang radio dalam rentang frekuensi gelombang mikro untuk mengirimkan video, audio, atau data antara dua lokasi, yang jaraknya hanya beberapa kaki atau meter hingga beberapa mil atau kilometer.
 
 Transmisi radio gelombang mikro umumnya digunakan dalam sistem komunikasi  point-to-point di permukaan bumi, komunikasi satelit, dan komunikasi radio luar angkasa. Bagian lain dari pita radio gelombang mikro digunakan untuk radar, sistem navigasi radio, sistem sensor, dan astronomi radio.
 
 
 
-#konsep
+##konsep##
 microwave link adalah sebuah cara untuk mentransmisikan informasi digital di atmosfer melalui gelombang mikro(microwave) atau frekuensi radio (rf).
 komunikasi gelombang mikro/microwave mengacu pada intermediate frequency (IF) terlebih dahulu. Kemudian intermediate frequency diubah menjadi frequency microwave .
 sinyal baseband juga dapat dimodulasi langsung ke frequency microwave , tetapi hanya metode modulasi phase shift keying ( PSK ) yang berlaku.
