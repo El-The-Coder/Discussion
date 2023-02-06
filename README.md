@@ -44,7 +44,7 @@ Transmisi radio gelombang mikro umumnya digunakan dalam sistem komunikasi  point
 
 
 
-
+#konsep
 microwave link adalah sebuah cara untuk mentransmisikan informasi digital di atmosfer melalui gelombang mikro(microwave) atau frekuensi radio (rf).
 komunikasi gelombang mikro/microwave mengacu pada intermediate frequency (IF) terlebih dahulu. Kemudian intermediate frequency diubah menjadi frequency microwave .
 sinyal baseband juga dapat dimodulasi langsung ke frequency microwave , tetapi hanya metode modulasi phase shift keying ( PSK ) yang berlaku.
